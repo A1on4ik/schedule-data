@@ -1,0 +1,279 @@
+{
+    "timestamp": "20250305_143000",
+    "fitness_score": 780.5,
+    "predicted_fitness": 750.2,
+    "lessons": [
+      {
+        "day": "MONDAY",
+        "time_slot": 1,
+        "subject": "Программирование",
+        "teacher": {
+          "id": 1,
+          "name": "Нурик Нурланов"
+        },
+        "group": {
+          "id": 1,
+          "name": "ИС-25"
+        },
+        "classroom": {
+          "id": 1,
+          "number": "203"
+        }
+      },
+      {
+        "day": "MONDAY",
+        "time_slot": 2,
+        "subject": "Базы данных",
+        "teacher": {
+          "id": 2,
+          "name": "Санжик Санжаров"
+        },
+        "group": {
+          "id": 1,
+          "name": "ИС-25"
+        },
+        "classroom": {
+          "id": 2,
+          "number": "308"
+        }
+      },
+      {
+        "day": "MONDAY",
+        "time_slot": 3,
+        "subject": "Алгоритмы и структуры данных",
+        "teacher": {
+          "id": 3,
+          "name": "Алончик Алонов"
+        },
+        "group": {
+          "id": 1,
+          "name": "ИС-25"
+        },
+        "classroom": {
+          "id": 3,
+          "number": "412"
+        }
+      },
+      {
+        "day": "TUESDAY",
+        "time_slot": 1,
+        "subject": "Web-разработка",
+        "teacher": {
+          "id": 1,
+          "name": "Нурик Нурланов"
+        },
+        "group": {
+          "id": 2,
+          "name": "ИТ-24"
+        },
+        "classroom": {
+          "id": 4,
+          "number": "305"
+        }
+      },
+      {
+        "day": "TUESDAY",
+        "time_slot": 2,
+        "subject": "Машинное обучение",
+        "teacher": {
+          "id": 3,
+          "name": "Алончик Алонов"
+        },
+        "group": {
+          "id": 2,
+          "name": "ИТ-24"
+        },
+        "classroom": {
+          "id": 5,
+          "number": "401"
+        }
+      },
+      {
+        "day": "TUESDAY",
+        "time_slot": 3,
+        "subject": "Сети и телекоммуникации",
+        "teacher": {
+          "id": 2,
+          "name": "Санжик Санжаров"
+        },
+        "group": {
+          "id": 2,
+          "name": "ИТ-24"
+        },
+        "classroom": {
+          "id": 6,
+          "number": "210"
+        }
+      },
+      {
+        "day": "WEDNESDAY",
+        "time_slot": 1,
+        "subject": "Операционные системы",
+        "teacher": {
+          "id": 1,
+          "name": "Нурик Нурланов"
+        },
+        "group": {
+          "id": 3,
+          "name": "КБ-23"
+        },
+        "classroom": {
+          "id": 7,
+          "number": "301"
+        }
+      },
+      {
+        "day": "WEDNESDAY",
+        "time_slot": 2,
+        "subject": "Информационная безопасность",
+        "teacher": {
+          "id": 2,
+          "name": "Санжик Санжаров"
+        },
+        "group": {
+          "id": 3,
+          "name": "КБ-23"
+        },
+        "classroom": {
+          "id": 8,
+          "number": "307"
+        }
+      },
+      {
+        "day": "WEDNESDAY",
+        "time_slot": 4,
+        "subject": "Искусственный интеллект",
+        "teacher": {
+          "id": 3,
+          "name": "Алончик Алонов"
+        },
+        "group": {
+          "id": 3,
+          "name": "КБ-23"
+        },
+        "classroom": {
+          "id": 9,
+          "number": "405"
+        }
+      },
+      {
+        "day": "THURSDAY",
+        "time_slot": 2,
+        "subject": "Программирование на Python",
+        "teacher": {
+          "id": 1,
+          "name": "Нурик Нурланов"
+        },
+        "group": {
+          "id": 4,
+          "name": "ПИ-22"
+        },
+        "classroom": {
+          "id": 10,
+          "number": "204"
+        }
+      },
+      {
+        "day": "THURSDAY",
+        "time_slot": 3,
+        "subject": "Компьютерная графика",
+        "teacher": {
+          "id": 3,
+          "name": "Алончик Алонов"
+        },
+        "group": {
+          "id": 4,
+          "name": "ПИ-22"
+        },
+        "classroom": {
+          "id": 11,
+          "number": "310"
+        }
+      },
+      {
+        "day": "THURSDAY",
+        "time_slot": 5,
+        "subject": "Компьютерные сети",
+        "teacher": {
+          "id": 2,
+          "name": "Санжик Санжаров"
+        },
+        "group": {
+          "id": 4,
+          "name": "ПИ-22"
+        },
+        "classroom": {
+          "id": 12,
+          "number": "208"
+        }
+      },
+      {
+        "day": "FRIDAY",
+        "time_slot": 1,
+        "subject": "Анализ данных",
+        "teacher": {
+          "id": 3,
+          "name": "Алончик Алонов"
+        },
+        "group": {
+          "id": 1,
+          "name": "ИС-25"
+        },
+        "classroom": {
+          "id": 3,
+          "number": "412"
+        }
+      },
+      {
+        "day": "FRIDAY",
+        "time_slot": 2,
+        "subject": "Мобильная разработка",
+        "teacher": {
+          "id": 1,
+          "name": "Нурик Нурланов"
+        },
+        "group": {
+          "id": 2,
+          "name": "ИТ-24"
+        },
+        "classroom": {
+          "id": 5,
+          "number": "401"
+        }
+      },
+      {
+        "day": "FRIDAY",
+        "time_slot": 4,
+        "subject": "Системное администрирование",
+        "teacher": {
+          "id": 2,
+          "name": "Санжик Санжаров"
+        },
+        "group": {
+          "id": 3,
+          "name": "КБ-23"
+        },
+        "classroom": {
+          "id": 7,
+          "number": "301"
+        }
+      },
+      {
+        "day": "FRIDAY",
+        "time_slot": 5,
+        "subject": "Компьютерное моделирование",
+        "teacher": {
+          "id": 3,
+          "name": "Алончик Алонов"
+        },
+        "group": {
+          "id": 4,
+          "name": "ПИ-22"
+        },
+        "classroom": {
+          "id": 9,
+          "number": "405"
+        }
+      }
+    ]
+  }
