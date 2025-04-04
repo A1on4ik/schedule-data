@@ -1,279 +1,3577 @@
 {
-    "timestamp": "20250305_143000",
-    "fitness_score": 780.5,
-    "predicted_fitness": 750.2,
+    "timestamp": "20250305_150324",
+    "fitness_score": 790.9351428833447,
+    "predicted_fitness": 1000.0,
     "lessons": [
-      {
-        "day": "MONDAY",
-        "time_slot": 1,
-        "subject": "Программирование",
-        "teacher": {
-          "id": 1,
-          "name": "Нурик Нурланов"
+        {
+            "day": "MONDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
         },
-        "group": {
-          "id": 1,
-          "name": "ИС-25"
+        {
+            "day": "MONDAY",
+            "time_slot": 1,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 1,
+                "name": "Shayna Rosboril"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
         },
-        "classroom": {
-          "id": 1,
-          "number": "203"
+        {
+            "day": "MONDAY",
+            "time_slot": 2,
+            "subject": "Biology",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 3,
+                "number": "108"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 2,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "Biology",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 3,
+            "subject": "Physics",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 4,
+            "subject": "Biology",
+            "teacher": {
+                "id": 8,
+                "name": "Katherine Harrison"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 4,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 4,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 4,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 5,
+            "subject": "Biology",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 5,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 6,
+            "subject": "Biology",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "MONDAY",
+            "time_slot": 6,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "Biology",
+            "teacher": {
+                "id": 12,
+                "name": "Florrie Hosea"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 16,
+                "number": "207"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "Literature",
+            "teacher": {
+                "id": 13,
+                "name": "Laurie Balch"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 2,
+            "subject": "Biology",
+            "teacher": {
+                "id": 8,
+                "name": "Katherine Harrison"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 16,
+                "number": "207"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 2,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 2,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 8,
+                "number": "301"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 2,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "Biology",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 0,
+                "number": "408"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 4,
+            "subject": "History",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 4,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 4,
+            "subject": "Literature",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 4,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 17,
+                "name": "Raymond Muse"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "History",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 15,
+                "number": "102"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "Physics",
+            "teacher": {
+                "id": 12,
+                "name": "Florrie Hosea"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 5,
+            "subject": "Literature",
+            "teacher": {
+                "id": 13,
+                "name": "Laurie Balch"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 16,
+                "number": "207"
+            }
+        },
+        {
+            "day": "TUESDAY",
+            "time_slot": 6,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 1,
+            "subject": "Biology",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 15,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 16,
+                "number": "207"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 15,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 1,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 1,
+            "subject": "Literature",
+            "teacher": {
+                "id": 13,
+                "name": "Laurie Balch"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 2,
+            "subject": "Biology",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 2,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 1,
+                "name": "Shayna Rosboril"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 2,
+            "subject": "History",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 2,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 2,
+            "subject": "Literature",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 3,
+            "subject": "Biology",
+            "teacher": {
+                "id": 12,
+                "name": "Florrie Hosea"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 15,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 8,
+                "number": "301"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 3,
+            "subject": "History",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 3,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 8,
+                "number": "301"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "Physics",
+            "teacher": {
+                "id": 12,
+                "name": "Florrie Hosea"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 4,
+            "subject": "English",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "Biology",
+            "teacher": {
+                "id": 13,
+                "name": "Laurie Balch"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 0,
+                "number": "408"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 5,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 6,
+            "subject": "Biology",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "WEDNESDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 1,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 2,
+            "subject": "Biology",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 16,
+                "number": "207"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "Literature",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 17,
+                "name": "Raymond Muse"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 4,
+            "subject": "Biology",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 4,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 4,
+            "subject": "History",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 0,
+                "number": "408"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 4,
+            "subject": "History",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 8,
+                "number": "301"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 5,
+            "subject": "Biology",
+            "teacher": {
+                "id": 8,
+                "name": "Katherine Harrison"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 5,
+            "subject": "History",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 5,
+            "subject": "History",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 5,
+            "subject": "Physics",
+            "teacher": {
+                "id": 15,
+                "name": "Nancy Stadther"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "Biology",
+            "teacher": {
+                "id": 13,
+                "name": "Laurie Balch"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "History",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "THURSDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "Literature",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 1,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 2,
+            "subject": "History",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 3,
+            "subject": "Biology",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 8,
+                "number": "301"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 3,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 4,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 1,
+                "name": "Shayna Rosboril"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 5,
+                "number": "408"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 4,
+            "subject": "History",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "Biology",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 16,
+                "number": "207"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 7,
+                "name": "Mitchell Brown"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "History",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 0,
+                "number": "408"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 5,
+            "subject": "Literature",
+            "teacher": {
+                "id": 9,
+                "name": "Carmen Coldwell"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 6,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 0,
+                "number": "408"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 6,
+            "subject": "History",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 13,
+                "number": "401"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "FRIDAY",
+            "time_slot": 6,
+            "subject": "Literature",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 1,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 4,
+                "number": "106"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 1,
+            "subject": "History",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 1,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 1,
+            "subject": "Literature",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "Biology",
+            "teacher": {
+                "id": 18,
+                "name": "John Barker"
+            },
+            "group": {
+                "id": 0,
+                "name": "Group-00"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 2,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 18,
+                "number": "100"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 0,
+                "name": "Beverly Lenart"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 6,
+                "number": "304"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "Physics",
+            "teacher": {
+                "id": 12,
+                "name": "Florrie Hosea"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "Literature",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 2,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 8,
+                "number": "301"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 3,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 3,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 17,
+                "number": "504"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 3,
+            "subject": "Physics",
+            "teacher": {
+                "id": 11,
+                "name": "Bruce Baldwin"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 3,
+            "subject": "Literature",
+            "teacher": {
+                "id": 5,
+                "name": "Joseph Gulinson"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 0,
+                "number": "408"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 4,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 4,
+            "subject": "English",
+            "teacher": {
+                "id": 17,
+                "name": "Raymond Muse"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 4,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 15,
+                "number": "102"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 4,
+            "subject": "History",
+            "teacher": {
+                "id": 19,
+                "name": "Patrick Pinera"
+            },
+            "group": {
+                "id": 7,
+                "name": "Group-07"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 4,
+            "subject": "Literature",
+            "teacher": {
+                "id": 13,
+                "name": "Laurie Balch"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "Chemistry",
+            "teacher": {
+                "id": 6,
+                "name": "Leonard Dixon"
+            },
+            "group": {
+                "id": 2,
+                "name": "Group-02"
+            },
+            "classroom": {
+                "id": 1,
+                "number": "302"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 11,
+                "number": "102"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "History",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 5,
+                "name": "Group-05"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 6,
+                "name": "Group-06"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 16,
+                "name": "Jennifer Tola"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "Physics",
+            "teacher": {
+                "id": 2,
+                "name": "Tara Vise"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "Literature",
+            "teacher": {
+                "id": 10,
+                "name": "Charles Glover"
+            },
+            "group": {
+                "id": 10,
+                "name": "Group-10"
+            },
+            "classroom": {
+                "id": 9,
+                "number": "304"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 5,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 11,
+                "name": "Group-11"
+            },
+            "classroom": {
+                "id": 19,
+                "number": "407"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 1,
+                "name": "Group-01"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 3,
+                "name": "Norma Jackson"
+            },
+            "group": {
+                "id": 3,
+                "name": "Group-03"
+            },
+            "classroom": {
+                "id": 10,
+                "number": "108"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 6,
+            "subject": "English",
+            "teacher": {
+                "id": 4,
+                "name": "Priscilla Thomas"
+            },
+            "group": {
+                "id": 4,
+                "name": "Group-04"
+            },
+            "classroom": {
+                "id": 14,
+                "number": "404"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 6,
+            "subject": "Computer Science",
+            "teacher": {
+                "id": 14,
+                "name": "Kristofer Cooper"
+            },
+            "group": {
+                "id": 8,
+                "name": "Group-08"
+            },
+            "classroom": {
+                "id": 12,
+                "number": "501"
+            }
+        },
+        {
+            "day": "SATURDAY",
+            "time_slot": 6,
+            "subject": "Physics",
+            "teacher": {
+                "id": 12,
+                "name": "Florrie Hosea"
+            },
+            "group": {
+                "id": 9,
+                "name": "Group-09"
+            },
+            "classroom": {
+                "id": 7,
+                "number": "305"
+            }
         }
-      },
-      {
-        "day": "MONDAY",
-        "time_slot": 2,
-        "subject": "Базы данных",
-        "teacher": {
-          "id": 2,
-          "name": "Санжик Санжаров"
-        },
-        "group": {
-          "id": 1,
-          "name": "ИС-25"
-        },
-        "classroom": {
-          "id": 2,
-          "number": "308"
-        }
-      },
-      {
-        "day": "MONDAY",
-        "time_slot": 3,
-        "subject": "Алгоритмы и структуры данных",
-        "teacher": {
-          "id": 3,
-          "name": "Алончик Алонов"
-        },
-        "group": {
-          "id": 1,
-          "name": "ИС-25"
-        },
-        "classroom": {
-          "id": 3,
-          "number": "412"
-        }
-      },
-      {
-        "day": "TUESDAY",
-        "time_slot": 1,
-        "subject": "Web-разработка",
-        "teacher": {
-          "id": 1,
-          "name": "Нурик Нурланов"
-        },
-        "group": {
-          "id": 2,
-          "name": "ИТ-24"
-        },
-        "classroom": {
-          "id": 4,
-          "number": "305"
-        }
-      },
-      {
-        "day": "TUESDAY",
-        "time_slot": 2,
-        "subject": "Машинное обучение",
-        "teacher": {
-          "id": 3,
-          "name": "Алончик Алонов"
-        },
-        "group": {
-          "id": 2,
-          "name": "ИТ-24"
-        },
-        "classroom": {
-          "id": 5,
-          "number": "401"
-        }
-      },
-      {
-        "day": "TUESDAY",
-        "time_slot": 3,
-        "subject": "Сети и телекоммуникации",
-        "teacher": {
-          "id": 2,
-          "name": "Санжик Санжаров"
-        },
-        "group": {
-          "id": 2,
-          "name": "ИТ-24"
-        },
-        "classroom": {
-          "id": 6,
-          "number": "210"
-        }
-      },
-      {
-        "day": "WEDNESDAY",
-        "time_slot": 1,
-        "subject": "Операционные системы",
-        "teacher": {
-          "id": 1,
-          "name": "Нурик Нурланов"
-        },
-        "group": {
-          "id": 3,
-          "name": "КБ-23"
-        },
-        "classroom": {
-          "id": 7,
-          "number": "301"
-        }
-      },
-      {
-        "day": "WEDNESDAY",
-        "time_slot": 2,
-        "subject": "Информационная безопасность",
-        "teacher": {
-          "id": 2,
-          "name": "Санжик Санжаров"
-        },
-        "group": {
-          "id": 3,
-          "name": "КБ-23"
-        },
-        "classroom": {
-          "id": 8,
-          "number": "307"
-        }
-      },
-      {
-        "day": "WEDNESDAY",
-        "time_slot": 4,
-        "subject": "Искусственный интеллект",
-        "teacher": {
-          "id": 3,
-          "name": "Алончик Алонов"
-        },
-        "group": {
-          "id": 3,
-          "name": "КБ-23"
-        },
-        "classroom": {
-          "id": 9,
-          "number": "405"
-        }
-      },
-      {
-        "day": "THURSDAY",
-        "time_slot": 2,
-        "subject": "Программирование на Python",
-        "teacher": {
-          "id": 1,
-          "name": "Нурик Нурланов"
-        },
-        "group": {
-          "id": 4,
-          "name": "ПИ-22"
-        },
-        "classroom": {
-          "id": 10,
-          "number": "204"
-        }
-      },
-      {
-        "day": "THURSDAY",
-        "time_slot": 3,
-        "subject": "Компьютерная графика",
-        "teacher": {
-          "id": 3,
-          "name": "Алончик Алонов"
-        },
-        "group": {
-          "id": 4,
-          "name": "ПИ-22"
-        },
-        "classroom": {
-          "id": 11,
-          "number": "310"
-        }
-      },
-      {
-        "day": "THURSDAY",
-        "time_slot": 5,
-        "subject": "Компьютерные сети",
-        "teacher": {
-          "id": 2,
-          "name": "Санжик Санжаров"
-        },
-        "group": {
-          "id": 4,
-          "name": "ПИ-22"
-        },
-        "classroom": {
-          "id": 12,
-          "number": "208"
-        }
-      },
-      {
-        "day": "FRIDAY",
-        "time_slot": 1,
-        "subject": "Анализ данных",
-        "teacher": {
-          "id": 3,
-          "name": "Алончик Алонов"
-        },
-        "group": {
-          "id": 1,
-          "name": "ИС-25"
-        },
-        "classroom": {
-          "id": 3,
-          "number": "412"
-        }
-      },
-      {
-        "day": "FRIDAY",
-        "time_slot": 2,
-        "subject": "Мобильная разработка",
-        "teacher": {
-          "id": 1,
-          "name": "Нурик Нурланов"
-        },
-        "group": {
-          "id": 2,
-          "name": "ИТ-24"
-        },
-        "classroom": {
-          "id": 5,
-          "number": "401"
-        }
-      },
-      {
-        "day": "FRIDAY",
-        "time_slot": 4,
-        "subject": "Системное администрирование",
-        "teacher": {
-          "id": 2,
-          "name": "Санжик Санжаров"
-        },
-        "group": {
-          "id": 3,
-          "name": "КБ-23"
-        },
-        "classroom": {
-          "id": 7,
-          "number": "301"
-        }
-      },
-      {
-        "day": "FRIDAY",
-        "time_slot": 5,
-        "subject": "Компьютерное моделирование",
-        "teacher": {
-          "id": 3,
-          "name": "Алончик Алонов"
-        },
-        "group": {
-          "id": 4,
-          "name": "ПИ-22"
-        },
-        "classroom": {
-          "id": 9,
-          "number": "405"
-        }
-      }
     ]
-  }
+}
